@@ -13,14 +13,14 @@ Install [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) using
 pip install beautifulsoup<version>
 ```
 
-Install UrlLib(https://pypi.org/search/?q=urllib) for Http/HTTPS Request using 
+Install [UrlLib](https://pypi.org/search/?q=urllib) for Http/HTTPS Request using 
 
 ```
 pip install urllib<version>
 ```
 
 
-Install CSV(https://pypi.org/project/python-csv/) for CSV File Output using 
+Install [CSV](https://pypi.org/project/python-csv/) for CSV File Output using 
 
 ```
 pip install python-csv

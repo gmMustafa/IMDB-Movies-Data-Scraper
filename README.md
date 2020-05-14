@@ -2,10 +2,9 @@
 
 ## Movies data scraper using Python and BeautifulSoup.
 
-## Setup
+### Setup
+Install [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) using
 
-### Install [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) using
-
-### pip install beautifulsoup4
+pip install beautifulsoup4
 
 

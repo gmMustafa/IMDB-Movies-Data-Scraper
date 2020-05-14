@@ -1,4 +1,4 @@
-# MOVIE-DATA-SCRAPER
+## IMDB TOP 250 MOVIES DATA SCRAPER
 
 ## Movies data scraper using Python and BeautifulSoup.
 

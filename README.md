@@ -13,7 +13,7 @@ Install [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) using
 pip install beautifulsoup<version>
 ```
 
-Install [UrlLib](https://pypi.org/search/?q=urllib) for Http/HTTPS Request using 
+Install [UrlLib](https://pypi.org/search/?q=urllib) for Network Request using 
 
 ```
 pip install urllib<version>

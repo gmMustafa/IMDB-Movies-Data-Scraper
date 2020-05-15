@@ -1,5 +1,7 @@
 ## IMDB TOP 250 MOVIES DATA SCRAPER
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ## Movies data scraper using Python and BeautifulSoup.
 
 #### Disclaimer : Data scraped from [IMDB](https://www.imdb.com/chart/top/) only for development purpose.
